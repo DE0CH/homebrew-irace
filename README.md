@@ -1,0 +1,11 @@
+# DE0CH Irace
+
+## How do I install these formulae?
+
+`brew install de0ch/irace/<formula>`
+
+Or `brew tap de0ch/irace` and then `brew install <formula>`.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
